@@ -28,8 +28,8 @@ My name is Pavel. I am 26 year old. I have been working as a system analyst for 
 
 ---
 
-```
-    function swapImage(e) {
+``` javascript
+    function swapImage(e){ 
     	var currentImgNumber = Number(e.target.id.slice(-1));
     	if(currentImgNumber >= 1 && currentImgNumber < 4) {
     		var nextImg = document.getElementById(`img_${currentImgNumber+1}`).src;
@@ -46,14 +46,15 @@ My name is Pavel. I am 26 year old. I have been working as a system analyst for 
 
 ---
 
-June 2017 - System analyst.
+- June 2017 - System analyst.
 
 ## Education
 
 ---
 
-2012 - 2017 - Engineer-economist. _Belarusian State University of Informatics and Radioelectronics_
-2018 - 2020 - Master of Information Technology. _Belarusian State University of Informatics and Radioelectronics_
+- _Belarusian State University of Informatics and Radioelectronics:_
+  - 2012 - 2017 - Engineer-economist. 
+  - 2018 - 2020 - Master of Information Technology. 
 
 ## English skill
 
