@@ -29,7 +29,7 @@ ____________
 
 ## Code example
 -------------
-``
+`` javascript
     function swapImage(e) {
     	var currentImgNumber = Number(e.target.id.slice(-1)); 
     	if(currentImgNumber >= 1 && currentImgNumber < 4) {
@@ -42,7 +42,7 @@ ____________
 			e.target.src = firstImgSrc;
     	}
 ``        
-_______________________________
+______
 
 ## Professional experience
 ----------------
