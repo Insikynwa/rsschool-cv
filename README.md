@@ -1,1 +1,1 @@
-# [rsschool-cv](https://Insikynwa.github.io/rsschool-cv/cv)
+# [rsschool-cv](https://Insikynwa.github.io/rsschool-cv/)
